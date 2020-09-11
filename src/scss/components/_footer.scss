@@ -1,0 +1,17 @@
+
+footer {
+  background-color: var(--noir);
+  height: 144px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer p {
+
+
+  font-family: var(--font-principale);
+  font-size: 18px;
+
+  color: var(--blanc);
+}

@@ -1,0 +1,13 @@
+.carte {
+
+  background: var(--blanc);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+  display: flex;
+  flex-direction: column;
+
+  margin: 30px 0;
+  padding: 30px;
+  width: 352px;
+
+}
